@@ -6,3 +6,5 @@ If you want to retain the .npy files then don't uncomment the rm lines for it.
 The binary word2vec embeddings should be in the .model file.
 
 ``` $ sh run.sh```
+
+Original src: https://github.com/panyang/Wikipedia_Word2vec
